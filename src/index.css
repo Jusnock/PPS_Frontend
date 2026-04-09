@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+  --color-cpce-blue: #004A98;
+  --color-cpce-dark: #003366;
+  --color-cpce-red: #FF4B4B;
+}
